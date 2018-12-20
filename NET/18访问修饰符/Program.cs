@@ -11,7 +11,8 @@ namespace _18访问修饰符
         static void Main(string[] args)
         {
             Person p = new Person();
-            p.
+            p._gender='女';
+            p._math=100;
         }
     }
 
@@ -28,7 +29,7 @@ namespace _18访问修饰符
     { 
         public void Test()
         {
-            this.
+            
         }
     }
 

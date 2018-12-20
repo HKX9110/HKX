@@ -1,0 +1,5 @@
+E:\VS 2013\HKX\NET\13显示实现接口\bin\Debug\13显示实现接口.exe.config
+E:\VS 2013\HKX\NET\13显示实现接口\bin\Debug\13显示实现接口.exe
+E:\VS 2013\HKX\NET\13显示实现接口\bin\Debug\13显示实现接口.pdb
+E:\VS 2013\HKX\NET\13显示实现接口\obj\Debug\13显示实现接口.exe
+E:\VS 2013\HKX\NET\13显示实现接口\obj\Debug\13显示实现接口.pdb

@@ -1,0 +1,5 @@
+E:\VS 2013\HKX\NET\12接口案例\bin\Debug\12接口案例.exe.config
+E:\VS 2013\HKX\NET\12接口案例\bin\Debug\12接口案例.exe
+E:\VS 2013\HKX\NET\12接口案例\bin\Debug\12接口案例.pdb
+E:\VS 2013\HKX\NET\12接口案例\obj\Debug\12接口案例.exe
+E:\VS 2013\HKX\NET\12接口案例\obj\Debug\12接口案例.pdb

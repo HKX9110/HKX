@@ -4,3 +4,9 @@ E:\VS 2013\NET\10移动设备练习3\bin\Debug\10移动设备练习3.pdb
 E:\VS 2013\NET\10移动设备练习3\obj\Debug\10移动设备练习.csprojResolveAssemblyReference.cache
 E:\VS 2013\NET\10移动设备练习3\obj\Debug\10移动设备练习3.exe
 E:\VS 2013\NET\10移动设备练习3\obj\Debug\10移动设备练习3.pdb
+E:\VS 2013\HKX\NET\10移动设备练习3\bin\Debug\10移动设备练习3.exe.config
+E:\VS 2013\HKX\NET\10移动设备练习3\bin\Debug\10移动设备练习3.exe
+E:\VS 2013\HKX\NET\10移动设备练习3\bin\Debug\10移动设备练习3.pdb
+E:\VS 2013\HKX\NET\10移动设备练习3\obj\Debug\10移动设备练习.csprojResolveAssemblyReference.cache
+E:\VS 2013\HKX\NET\10移动设备练习3\obj\Debug\10移动设备练习3.exe
+E:\VS 2013\HKX\NET\10移动设备练习3\obj\Debug\10移动设备练习3.pdb

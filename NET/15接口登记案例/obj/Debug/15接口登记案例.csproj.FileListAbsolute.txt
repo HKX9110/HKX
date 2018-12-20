@@ -1,0 +1,5 @@
+E:\VS 2013\HKX\NET\15接口登记案例\bin\Debug\15接口登记案例.exe.config
+E:\VS 2013\HKX\NET\15接口登记案例\bin\Debug\15接口登记案例.exe
+E:\VS 2013\HKX\NET\15接口登记案例\bin\Debug\15接口登记案例.pdb
+E:\VS 2013\HKX\NET\15接口登记案例\obj\Debug\15接口登记案例.exe
+E:\VS 2013\HKX\NET\15接口登记案例\obj\Debug\15接口登记案例.pdb

@@ -7,3 +7,14 @@ E:\VS 2013\NET\16剪刀石头布\obj\Debug\_16剪刀石头布.Properties.Resourc
 E:\VS 2013\NET\16剪刀石头布\obj\Debug\16剪刀石头布.csproj.GenerateResource.Cache
 E:\VS 2013\NET\16剪刀石头布\obj\Debug\16剪刀石头布.exe
 E:\VS 2013\NET\16剪刀石头布\obj\Debug\16剪刀石头布.pdb
+E:\VS 2013\HKX\NET\16剪刀石头布\bin\Debug\16剪刀石头布.exe.config
+E:\VS 2013\HKX\NET\16剪刀石头布\bin\Debug\16剪刀石头布.exe
+E:\VS 2013\HKX\NET\16剪刀石头布\bin\Debug\16剪刀石头布.pdb
+E:\VS 2013\HKX\NET\16剪刀石头布\bin\Debug\18访问修饰符.exe
+E:\VS 2013\HKX\NET\16剪刀石头布\bin\Debug\18访问修饰符.pdb
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\16剪刀石头布.csprojResolveAssemblyReference.cache
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\_16剪刀石头布.Form1.resources
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\_16剪刀石头布.Properties.Resources.resources
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\16剪刀石头布.csproj.GenerateResource.Cache
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\16剪刀石头布.exe
+E:\VS 2013\HKX\NET\16剪刀石头布\obj\Debug\16剪刀石头布.pdb

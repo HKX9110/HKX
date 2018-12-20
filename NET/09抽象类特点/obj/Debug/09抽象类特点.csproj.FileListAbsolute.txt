@@ -4,3 +4,9 @@ E:\VS 2013\NET\09抽象类特点\bin\Debug\09抽象类特点.exe
 E:\VS 2013\NET\09抽象类特点\bin\Debug\09抽象类特点.pdb
 E:\VS 2013\NET\09抽象类特点\obj\Debug\09抽象类特点.exe
 E:\VS 2013\NET\09抽象类特点\obj\Debug\09抽象类特点.pdb
+E:\VS 2013\HKX\NET\09抽象类特点\bin\Debug\09抽象类特点.exe.config
+E:\VS 2013\HKX\NET\09抽象类特点\bin\Debug\09抽象类特点.exe
+E:\VS 2013\HKX\NET\09抽象类特点\bin\Debug\09抽象类特点.pdb
+E:\VS 2013\HKX\NET\09抽象类特点\obj\Debug\09抽象类特点.csprojResolveAssemblyReference.cache
+E:\VS 2013\HKX\NET\09抽象类特点\obj\Debug\09抽象类特点.exe
+E:\VS 2013\HKX\NET\09抽象类特点\obj\Debug\09抽象类特点.pdb

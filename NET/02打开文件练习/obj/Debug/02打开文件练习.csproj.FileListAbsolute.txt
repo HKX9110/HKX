@@ -5,3 +5,9 @@ E:\VS 2013\NET\02打开文件练习\obj\Debug\02打开文件练习.exe
 E:\VS 2013\NET\02打开文件练习\obj\Debug\02打开文件练习.pdb
 E:\VS 2013\NET\02打开文件练习\bin\Debug\02打开文件练习.exe.CodeAnalysisLog.xml
 E:\VS 2013\NET\02打开文件练习\bin\Debug\02打开文件练习.exe.lastcodeanalysissucceeded
+E:\VS 2013\HKX\NET\02打开文件练习\bin\Debug\02打开文件练习.exe.config
+E:\VS 2013\HKX\NET\02打开文件练习\bin\Debug\02打开文件练习.exe
+E:\VS 2013\HKX\NET\02打开文件练习\bin\Debug\02打开文件练习.pdb
+E:\VS 2013\HKX\NET\02打开文件练习\obj\Debug\02打开文件练习.csprojResolveAssemblyReference.cache
+E:\VS 2013\HKX\NET\02打开文件练习\obj\Debug\02打开文件练习.exe
+E:\VS 2013\HKX\NET\02打开文件练习\obj\Debug\02打开文件练习.pdb
