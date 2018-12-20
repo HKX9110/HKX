@@ -1,0 +1,5 @@
+E:\VS 2013\NET\08抽象类\bin\Debug\08抽象类.exe.config
+E:\VS 2013\NET\08抽象类\bin\Debug\08抽象类.exe
+E:\VS 2013\NET\08抽象类\bin\Debug\08抽象类.pdb
+E:\VS 2013\NET\08抽象类\obj\Debug\08抽象类.exe
+E:\VS 2013\NET\08抽象类\obj\Debug\08抽象类.pdb

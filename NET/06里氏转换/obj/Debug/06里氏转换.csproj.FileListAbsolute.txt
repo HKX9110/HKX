@@ -1,0 +1,6 @@
+E:\VS 2013\NET\06里氏转换\bin\Debug\06里氏转换.exe.config
+E:\VS 2013\NET\06里氏转换\bin\Debug\06里氏转换.exe
+E:\VS 2013\NET\06里氏转换\bin\Debug\06里氏转换.pdb
+E:\VS 2013\NET\06里氏转换\obj\Debug\06里氏转换.csprojResolveAssemblyReference.cache
+E:\VS 2013\NET\06里氏转换\obj\Debug\06里氏转换.exe
+E:\VS 2013\NET\06里氏转换\obj\Debug\06里氏转换.pdb

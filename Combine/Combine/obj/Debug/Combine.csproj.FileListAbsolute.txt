@@ -1,0 +1,6 @@
+E:\VS 2013\Combine\Combine\bin\Debug\Combine.exe.config
+E:\VS 2013\Combine\Combine\bin\Debug\Combine.exe
+E:\VS 2013\Combine\Combine\bin\Debug\Combine.pdb
+E:\VS 2013\Combine\Combine\obj\Debug\Combine.exe
+E:\VS 2013\Combine\Combine\obj\Debug\Combine.pdb
+E:\VS 2013\Combine\Combine\obj\Debug\Combine.csprojResolveAssemblyReference.cache

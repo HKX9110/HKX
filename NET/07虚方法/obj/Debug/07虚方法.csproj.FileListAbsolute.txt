@@ -1,0 +1,6 @@
+E:\VS 2013\NET\07虚方法\bin\Debug\07虚方法.exe.config
+E:\VS 2013\NET\07虚方法\bin\Debug\07虚方法.exe
+E:\VS 2013\NET\07虚方法\bin\Debug\07虚方法.pdb
+E:\VS 2013\NET\07虚方法\obj\Debug\07虚方法.csprojResolveAssemblyReference.cache
+E:\VS 2013\NET\07虚方法\obj\Debug\07虚方法.exe
+E:\VS 2013\NET\07虚方法\obj\Debug\07虚方法.pdb

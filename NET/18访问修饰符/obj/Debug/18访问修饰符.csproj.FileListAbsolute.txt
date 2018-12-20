@@ -1,0 +1,6 @@
+E:\VS 2013\NET\18访问修饰符\obj\Debug\18访问修饰符.csprojResolveAssemblyReference.cache
+E:\VS 2013\NET\18访问修饰符\bin\Debug\18访问修饰符.exe.config
+E:\VS 2013\NET\18访问修饰符\bin\Debug\18访问修饰符.exe
+E:\VS 2013\NET\18访问修饰符\bin\Debug\18访问修饰符.pdb
+E:\VS 2013\NET\18访问修饰符\obj\Debug\18访问修饰符.exe
+E:\VS 2013\NET\18访问修饰符\obj\Debug\18访问修饰符.pdb

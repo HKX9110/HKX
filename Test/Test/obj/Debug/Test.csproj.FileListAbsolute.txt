@@ -1,0 +1,6 @@
+E:\VS 2013\Test\Test\bin\Debug\Test.exe.config
+E:\VS 2013\Test\Test\bin\Debug\Test.exe
+E:\VS 2013\Test\Test\bin\Debug\Test.pdb
+E:\VS 2013\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\VS 2013\Test\Test\obj\Debug\Test.exe
+E:\VS 2013\Test\Test\obj\Debug\Test.pdb

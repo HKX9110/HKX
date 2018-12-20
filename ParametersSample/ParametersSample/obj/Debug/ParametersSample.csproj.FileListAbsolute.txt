@@ -1,0 +1,6 @@
+E:\VS 2013\ParametersSample\ParametersSample\bin\Debug\ParametersSample.exe.config
+E:\VS 2013\ParametersSample\ParametersSample\bin\Debug\ParametersSample.exe
+E:\VS 2013\ParametersSample\ParametersSample\bin\Debug\ParametersSample.pdb
+E:\VS 2013\ParametersSample\ParametersSample\obj\Debug\ParametersSample.csprojResolveAssemblyReference.cache
+E:\VS 2013\ParametersSample\ParametersSample\obj\Debug\ParametersSample.exe
+E:\VS 2013\ParametersSample\ParametersSample\obj\Debug\ParametersSample.pdb

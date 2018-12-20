@@ -1,0 +1,6 @@
+E:\VS 2013\IndexSample\IndexSample\bin\Debug\IndexSample.exe.config
+E:\VS 2013\IndexSample\IndexSample\bin\Debug\IndexSample.exe
+E:\VS 2013\IndexSample\IndexSample\bin\Debug\IndexSample.pdb
+E:\VS 2013\IndexSample\IndexSample\obj\Debug\IndexSample.csprojResolveAssemblyReference.cache
+E:\VS 2013\IndexSample\IndexSample\obj\Debug\IndexSample.exe
+E:\VS 2013\IndexSample\IndexSample\obj\Debug\IndexSample.pdb
